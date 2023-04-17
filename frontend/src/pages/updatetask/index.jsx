@@ -1,0 +1,1 @@
+export { UpdateTaskPage } from './updatepage';
